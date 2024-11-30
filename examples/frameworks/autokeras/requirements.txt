@@ -1,2 +1,3 @@
 autokeras ; python_version >= '3.7'
 clearml
+tensorflow>=2.12.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
